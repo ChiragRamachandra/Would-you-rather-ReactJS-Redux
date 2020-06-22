@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Would-you-rather-ReactJS-Redux/static/css/main.266173d9.chunk.css",
+    "main.js": "/Would-you-rather-ReactJS-Redux/static/js/main.4b0622af.chunk.js",
+    "main.js.map": "/Would-you-rather-ReactJS-Redux/static/js/main.4b0622af.chunk.js.map",
+    "runtime-main.js": "/Would-you-rather-ReactJS-Redux/static/js/runtime-main.a6ac189e.js",
+    "runtime-main.js.map": "/Would-you-rather-ReactJS-Redux/static/js/runtime-main.a6ac189e.js.map",
+    "static/js/2.5984fa98.chunk.js": "/Would-you-rather-ReactJS-Redux/static/js/2.5984fa98.chunk.js",
+    "static/js/2.5984fa98.chunk.js.map": "/Would-you-rather-ReactJS-Redux/static/js/2.5984fa98.chunk.js.map",
+    "index.html": "/Would-you-rather-ReactJS-Redux/index.html",
+    "precache-manifest.38174c96a103e024982ebf0f05cf8c40.js": "/Would-you-rather-ReactJS-Redux/precache-manifest.38174c96a103e024982ebf0f05cf8c40.js",
+    "service-worker.js": "/Would-you-rather-ReactJS-Redux/service-worker.js",
+    "static/css/main.266173d9.chunk.css.map": "/Would-you-rather-ReactJS-Redux/static/css/main.266173d9.chunk.css.map",
+    "static/js/2.5984fa98.chunk.js.LICENSE.txt": "/Would-you-rather-ReactJS-Redux/static/js/2.5984fa98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6ac189e.js",
+    "static/js/2.5984fa98.chunk.js",
+    "static/css/main.266173d9.chunk.css",
+    "static/js/main.4b0622af.chunk.js"
+  ]
+}
